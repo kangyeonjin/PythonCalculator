@@ -17,7 +17,7 @@
 - python
 
 ### 📂 `패키지구조`
-'''
+```
 app
     │  main.py
     │  __init__.py
@@ -48,4 +48,4 @@ app
     └─__pycache__
             main.cpython-312.pyc
             __init__.cpython-312.pyc
-'''
+```
